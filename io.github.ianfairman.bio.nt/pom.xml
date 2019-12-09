@@ -8,4 +8,5 @@
     </parent>
     <artifactId>nt</artifactId>
     <packaging>jar</packaging>
+    <name>io.github.ianfairman.bio.nt</name>
 </project>
