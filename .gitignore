@@ -24,3 +24,4 @@ hs_err_pid*
 /io.github.ianfairman.bio.nt/target/
 /io.github.ianfairman.bio.dna.nt/target/
 /io.github.ianfairman.bio.rna.nt/target/
+/io.github.ianfairman.text/target/

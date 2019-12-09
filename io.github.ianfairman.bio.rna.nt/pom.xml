@@ -14,5 +14,10 @@
             <artifactId>nt</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>io.github.ianfairman.text</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 </project>
