@@ -1,9 +1,9 @@
-package io.github.ianfairman.bio.dna.nt;
+package io.github.ianfairman.bio.dna;
 
 import io.github.ianfairman.bio.nt.Nucleotide;
 import io.github.ianfairman.bio.nt.NucleotideName;
 import io.github.ianfairman.bio.nt.NucleotideSymbol;
-import io.github.ianfairman.bio.rna.nt.RnaNucleotide;
+import io.github.ianfairman.bio.rna.RnaNucleotide;
 import static java.util.Objects.requireNonNull;
 
 import java.util.HashMap;

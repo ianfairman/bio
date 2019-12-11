@@ -1,4 +1,4 @@
-package io.github.ianfairman.bio.rna.nt;
+package io.github.ianfairman.bio.rna;
 
 import io.github.ianfairman.bio.nt.Nucleotide;
 import io.github.ianfairman.bio.nt.NucleotideName;

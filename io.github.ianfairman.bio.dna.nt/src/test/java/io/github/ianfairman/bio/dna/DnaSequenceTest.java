@@ -1,4 +1,4 @@
-package io.github.ianfairman.bio.dna.nt;
+package io.github.ianfairman.bio.dna;
 
 import java.util.Map;
 import static org.junit.jupiter.api.Assertions.assertEquals;

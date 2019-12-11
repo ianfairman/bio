@@ -1,4 +1,4 @@
-package io.github.ianfairman.bio.dna.nt;
+package io.github.ianfairman.bio.dna;
 
 import java.util.AbstractMap;
 import java.util.HashMap;

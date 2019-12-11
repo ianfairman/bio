@@ -1,4 +1,4 @@
-package io.github.ianfairman.bio.rna.nt;
+package io.github.ianfairman.bio.rna;
 
 import io.github.ianfairman.text.Characters;
 import static java.util.stream.Collectors.joining;

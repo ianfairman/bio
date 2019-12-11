@@ -1,6 +1,6 @@
-package io.github.ianfairman.bio.dna.nt;
+package io.github.ianfairman.bio.dna;
 
-import io.github.ianfairman.bio.rna.nt.RnaSequence;
+import io.github.ianfairman.bio.rna.RnaSequence;
 import io.github.ianfairman.text.Characters;
 import static java.util.stream.Collectors.toList;
 
