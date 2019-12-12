@@ -7,8 +7,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>io.github.ianfairman.bio.nt</module>
-        <module>io.github.ianfairman.bio.dna.nt</module>
-        <module>io.github.ianfairman.bio.rna.nt</module>
+        <module>io.github.ianfairman.bio.dna</module>
+        <module>io.github.ianfairman.bio.rna</module>
         <module>io.github.ianfairman.text</module>
         <module>io.github.ianfairman.io</module>
     </modules>
