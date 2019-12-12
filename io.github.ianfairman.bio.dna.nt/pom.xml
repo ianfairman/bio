@@ -6,7 +6,7 @@
         <artifactId>bio</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>io.github.ianfairman.bio.dna.nt</artifactId>
+    <artifactId>io.github.ianfairman.bio.dna</artifactId>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
